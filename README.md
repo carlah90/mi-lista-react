@@ -47,7 +47,7 @@ derecha para el cambio de tema.
 
 1. Clonar el repositorio:
        En el bash
-      git clone https://github.com/TU-USUARIO/TU-REPO.git
+      git clone https://github.com/carlah90/mi-lista-react.git
 
 2. Instalas dependencias 
     En el terminal (en caso de no tenerla)
